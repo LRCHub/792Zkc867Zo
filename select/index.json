@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "い～やい～やい～や",
+  "base_artist": "Neru feat.鏡音リン、レン",
+  "createdAt": "2025-12-03T08:35:28.214011Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "い~やい~やい~や",
+      "artist": "Neru feat. z'5",
+      "has_synced": true,
+      "path": "select/01_い~やい~やい~や_Neru_feat._z'5.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "い~やい~やい~や",
+      "artist": "Neru feat. Rin Kagamine & レン",
+      "has_synced": true,
+      "path": "select/02_い~やい~やい~や_Neru_feat._Rin_Kagamine_&_レン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "い~やい~やい~や (Neru Remix)",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/03_い~やい~やい~や_(Neru_Remix)_Neru.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "い~やい~やい~や (feat. z’5)",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/04_い~やい~やい~や_(feat._z’5)_Neru.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "い～やい～やい～や",
+      "artist": "Neru feat. z'5",
+      "has_synced": true,
+      "path": "select/05_い~やい~やい~や_Neru_feat._z'5.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "い～やい～やい～や(feat. z'5)",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/06_い~やい~やい~や(feat._z'5)_Neru.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "い~やい~やい~や",
+      "artist": "Neru; z'5",
+      "has_synced": true,
+      "path": "select/07_い~やい~やい~や_Neru;_z'5.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "い～やい～やい～や",
+      "artist": "Neru/Kagamine Rin/レン",
+      "has_synced": true,
+      "path": "select/08_い~やい~やい~や_Neru_Kagamine_Rin_レン.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "い~やい~やい~や",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/09_い~やい~やい~や_Neru.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "い〜やい〜やい〜や",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/10_い〜やい〜やい〜や_Neru.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "い〜やい〜やい〜や",
+      "artist": "Neru feat.Rin Kagamine、Len Kagamine",
+      "has_synced": true,
+      "path": "select/11_い〜やい〜やい〜や_Neru_feat.Rin_Kagamine、Len_Kagamine.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "い〜やい〜やい〜や",
+      "artist": "Neru feat.çRÒô¥ê¥ó¡¢¥ì¥ó",
+      "has_synced": true,
+      "path": "select/12_い〜やい〜やい〜や_Neru_feat.çRÒô¥ê¥ó¡¢¥ì¥ó.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "い~やい~やい~や",
+      "artist": "Neru feat.鏡音リン、レン",
+      "has_synced": false,
+      "path": "select/pl_01_い~やい~やい~や_Neru_feat.鏡音リン、レン.txt"
+    }
+  ]
+}
